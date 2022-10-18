@@ -1,2 +1,1 @@
-# java18-todo-app-exam
-JAVA18-TODO-APP-EXAM
+VERSION: TODO-APP-2.0-SNAPSHOT
